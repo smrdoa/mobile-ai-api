@@ -25,3 +25,5 @@ export default function handler(req, res) {
     status: "ok"
   });
 }
+
+
